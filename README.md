@@ -103,7 +103,3 @@ gitGraph
 
 - Claude Code
 - Git
-
-## 许可
-
-MIT
