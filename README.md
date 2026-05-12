@@ -30,6 +30,8 @@ graph LR
 # 克隆插件仓库
 git clone https://github.com/ChenHao96/smart-dev.git
 
+cd smart-dev
+
 # 安装插件到 Claude Code
 claude --plugin-dir .
 ```
