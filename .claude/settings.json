@@ -34,6 +34,17 @@
     "Bash(systemctl *)": "allow",
     "Bash(service *)": "allow",
     "Bash(pm2 *)": "allow",
-    "Bash(nginx *)": "allow"
+    "Bash(nginx *)": "allow",
+    "Bash(java *)": "allow",
+    "Bash(mvn *)": "allow",
+    "Bash(gradle *)": "allow",
+    "Bash(vue *)": "allow",
+    "Bash(vite *)": "allow",
+    "Bash(wsl *)": "allow",
+    "Bash(kubectl *)": "allow",
+    "Bash(nmap *)": "allow",
+    "Bash(sqlmap *)": "allow",
+    "Bash(ansible *)": "allow",
+    "Bash(terraform *)": "allow"
   }
 }
