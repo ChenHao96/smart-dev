@@ -36,13 +36,11 @@ allowed-tools:
 - **主选**: Java (Spring Boot, Spring Cloud) + Maven/Gradle
 - **副选**: Go (Gin/Chi) — 适合高性能 API 和微服务
 - **副选**: Python (FastAPI/Django) — 适合快速原型和数据处理
-- **数据库**: MySQL, PostgreSQL, Redis, MongoDB
+- **数据库**: MySQL, PostgreSQL, Redis, MongoDB，Elasticsearch
 - **消息队列**: RabbitMQ, Kafka
 - **容器化**: Docker, Docker Compose
 
 接到开发任务时，默认优先使用 Java/Spring Boot 进行实现，除非任务明确指定其他语言。
-
-## 核心原则
 
 ## 核心原则
 
