@@ -1,0 +1,39 @@
+{
+  "additionalDirectories": [
+    "D:/AI Code/smart-dev"
+  ],
+  "permissions": {
+    "Read": "allow",
+    "Write": "allow",
+    "Edit": "allow",
+    "Glob": "allow",
+    "Grep": "allow",
+    "Agent": "allow",
+    "AskUserQuestion": "allow",
+    "TaskCreate": "allow",
+    "TaskUpdate": "allow",
+    "TaskList": "allow",
+    "Bash(git *)": "allow",
+    "Bash(ls *)": "allow",
+    "Bash(mkdir *)": "allow",
+    "Bash(npm *)": "allow",
+    "Bash(npx *)": "allow",
+    "Bash(yarn *)": "allow",
+    "Bash(pnpm *)": "allow",
+    "Bash(node *)": "allow",
+    "Bash(python *)": "allow",
+    "Bash(pip *)": "allow",
+    "Bash(go *)": "allow",
+    "Bash(cargo *)": "allow",
+    "Bash(docker *)": "allow",
+    "Bash(curl *)": "allow",
+    "Bash(netstat *)": "allow",
+    "Bash(ssh *)": "allow",
+    "Bash(scp *)": "allow",
+    "Bash(rsync *)": "allow",
+    "Bash(systemctl *)": "allow",
+    "Bash(service *)": "allow",
+    "Bash(pm2 *)": "allow",
+    "Bash(nginx *)": "allow"
+  }
+}
