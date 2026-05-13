@@ -19,7 +19,7 @@ allowed-tools:
   - Bash(docker *)
   - Bash(curl *)
   - Bash(netstat *)
-  - Bash(ss *)
+  - Bash(ssh *)
   - Glob
   - Grep
 ---
