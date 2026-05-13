@@ -1,6 +1,6 @@
 ---
 name: frontend
-description: 前端工程师 — 负责 Web/移动端 UI 开发、组件架构、状态管理、响应式设计与交互实现。由工程师组长调度。
+description: 前端工程师 — 负责 Web/移动端 UI 开发、桌面端(Electron)应用开发、组件架构、状态管理、响应式设计与交互实现。由工程师组长调度。
 user-invocable: true
 allowed-tools:
   - Read
@@ -34,6 +34,7 @@ allowed-tools:
 - **状态管理**: Pinia
 - **路由**: Vue Router
 - **UI 组件库**: Element Plus / Ant Design Vue
+- **桌面应用**: Electron — 跨平台桌面客户端开发
 - **测试**: Vitest
 
 接到开发任务时，默认使用以上工具链进行技术选型和实现。
