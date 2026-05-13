@@ -101,9 +101,10 @@ gitGraph
 
 | 文件 | 内容 | 产出阶段 |
 |------|------|----------|
-| `requirements.md` | 结构化需求文档 | 阶段1 |
+| `requirements.md` | 结构化需求文档（追加式，含确认时间戳） | 阶段1 |
 | `architecture.md` | 技术架构报告 | 阶段2 |
-| `bug-log.md` | Bug 记录（现象、根因、修复方式） | 阶段3 |
+| `implementation-report.md` | 开发实现报告（每项任务对应的工程师及完成时间） | 阶段3 |
+| `bug-log.md` | Bug 记录（现象、根因、修复人、修复方式） | 阶段3 |
 | `security-report.md` | 安全审查报告 | 阶段4 |
 | `deployment.md` | 部署文档与应急预案 | 阶段5 |
 | `summary.md` | 项目总结报告 | 全部完成后 |
